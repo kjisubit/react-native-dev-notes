@@ -5,3 +5,4 @@
 - [UI](https://apple-sushi-c42.notion.site/UI-284cef5d64dd803f913ee5119be404ba)
 - [Interaction](https://apple-sushi-c42.notion.site/Interaction-289cef5d64dd8047a3abf355bf1360bf)
 - [Connectivity](https://apple-sushi-c42.notion.site/Connectivity-28bcef5d64dd80929a30e906680a85d1)
+- [Navigation](https://apple-sushi-c42.notion.site/Navigation-293cef5d64dd8010af54e902b262d14b)
