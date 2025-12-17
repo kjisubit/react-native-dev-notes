@@ -8,4 +8,5 @@
 - [React Fundamentals (CLI)](https://apple-sushi-c42.notion.site/The-Basics-283cef5d64dd80d09b69db95f9e88b15)
 - [UI](https://apple-sushi-c42.notion.site/UI-284cef5d64dd803f913ee5119be404ba)
 - [Upgrading to new versions](https://apple-sushi-c42.notion.site/Upgrading-to-new-versions-2b5cef5d64dd80e184c4ded62db4c322)
+- [개발 환경 구축 (Expo)](https://apple-sushi-c42.notion.site/Expo-2cccef5d64dd80f68f7dddf29d6e8c64)
 - [디렉터리 구조 (expo)](https://apple-sushi-c42.notion.site/281cef5d64dd8041b02ac09430a356a2)
