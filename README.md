@@ -4,6 +4,7 @@
 - [Connectivity (Expo)](https://apple-sushi-c42.notion.site/Connectivity-28bcef5d64dd80929a30e906680a85d1)
 - [Fundamentals](https://apple-sushi-c42.notion.site/The-Basics-283cef5d64dd80d09b69db95f9e88b15)
 - [Interaction](https://apple-sushi-c42.notion.site/Interaction-289cef5d64dd8047a3abf355bf1360bf)
+- [Navigation (CLI)](https://apple-sushi-c42.notion.site/Navigation-CLI-2cecef5d64dd80aeb667eae402b63fb2)
 - [Navigation (Expo)](https://apple-sushi-c42.notion.site/Navigation-293cef5d64dd8010af54e902b262d14b)
 - [react-hook-form](https://apple-sushi-c42.notion.site/react-hook-form-2c8cef5d64dd806abe3ff35ab178373d)
 - [UI](https://apple-sushi-c42.notion.site/UI-284cef5d64dd803f913ee5119be404ba)
